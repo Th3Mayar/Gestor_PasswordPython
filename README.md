@@ -3,7 +3,7 @@ This program is a password manager that creates and saves passwords from a serie
 
 ---
 
-#### It works in the following way.
+#### It works in the following way... (Look at the documented file...)
 
 ---
 
